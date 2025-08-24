@@ -1,4 +1,4 @@
-]Certainly! Here's a comprehensive README file for your Land Registry DApp project on Aptos, incorporating the project overview, technologies used, and step-by-step instructions to set up and run the project with Next.js, Tailwind CSS, and Aptos blockchain.
+Certainly! Here's a comprehensive README file for your Land Registry DApp project on Aptos, incorporating the project overview, technologies used, and step-by-step instructions to set up and run the project with Next.js, Tailwind CSS, and Aptos blockchain.
 
 ---
 
